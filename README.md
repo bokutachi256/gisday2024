@@ -15,7 +15,7 @@
 
 # 目次
 
-* [Jupyter Notebook型式のプログラム](https://github.com/bokutachi256/gisday2024/blob/main/GISDAY2024_%E8%A1%8C%E5%8B%95%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%AE%E5%88%86%E6%9E%90%E5%85%A5%E9%96%80.ipynb)
+* [Jupyter Notebook型式のプログラム](https://github.com/bokutachi256/gisday2024/blob/main/GISDAY2024_%E8%A1%8C%E5%8B%95%E3%83%8F%E3%82%9A%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%AE%E5%88%86%E6%9E%90%E5%85%A5%E9%96%80.ipynb)
 * [PDF版テキスト](https://github.com/bokutachi256/gisday2024/blob/main/GISDAY2024_%E8%A1%8C%E5%8B%95%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%AE%E5%88%86%E6%9E%90%E5%85%A5%E9%96%80.pdf)
 
 * [使用データ](https://drive.google.com/drive/folders/1OKj-JS8O2NR2qPlvLV4oiTNdrMEV8Jpn?usp=drive_link)
