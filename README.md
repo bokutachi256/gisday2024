@@ -1,4 +1,4 @@
-# GIS Day in 東京 2023 Eコース「scikit-mobilityを用いた行動パターンの分析入門」リポジトリ
+# GIS Day in 東京 2024 Eコース「scikit-mobilityを用いた行動パターンの分析入門」リポジトリ
 
 * scikit-mobilityを用いた行動パターンの分析入門
 * 2024年12月14日 東京都立大学 南大沢キャンパス
